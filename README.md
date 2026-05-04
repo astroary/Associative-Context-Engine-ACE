@@ -18,7 +18,7 @@ ACE is a hybrid retrieval framework designed to bridge the structural gap in tra
 
 🛠️ Setup Instructions
 
-1. Clone the Repository:
+1. Clone the Repository
 
 
 2. Install Dependencies:
